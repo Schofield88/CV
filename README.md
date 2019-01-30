@@ -6,6 +6,8 @@ Following university my original sector was UK construction, specifically steel,
 
 I’m constantly making an effort to couple a budding technical ability with a team-spirited alacritous manner, and very much looking forward to a new career as a software professional.
 
+Also looking forward to a working environment with a lot less swearing in it.
+
 ## Skills
 
 #### This Skill
