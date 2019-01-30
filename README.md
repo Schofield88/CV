@@ -1,6 +1,10 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years in steelwork as a 3D CAD detailer, with additional stints as a personal trainer, an Operational Support Grade contractor escort in HMP Maidstone, and as a Mobile Plant Operative (line takeoff forklift operator) in the Knauf UK Sittingbourne plaster board plant.
+
+Following university my original sector was UK construction, specifically steel, completely at odds with my degree (BA Geography, University of Southampton). Going in as essentially an apprentice to an engineering discipline meant working daily with real-world technical problems to constant time pressure. In order to save for the Makers course I spent the best part of year working as an MPO in a plaster board factory, doing 12 hour day and night shifts. The nature of working with a continuous line process in a time-pressured environment has left me capable of a high level of graft and robust abilities to cope with high-conflict situations.
+
+I’m constantly making an effort to couple a budding technical ability with a team-spirited alacritous manner, and very much looking forward to a new career as a software professional. 
 
 ## Skills
 
