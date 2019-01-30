@@ -1,4 +1,4 @@
-## Your Name
+## Luke Phyall
 
 Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years in steelwork as a 3D CAD detailer, with additional stints as a personal trainer, an Operational Support Grade contractor escort in HMP Maidstone, and as a Mobile Plant Operative (line takeoff forklift operator) in the Knauf UK Sittingbourne plaster board plant.
 
@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2019 to April 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -42,6 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BA Hons. Geography
 - Club officer of Southampton University Shorinji Kempo Club (Social Secretary, Special Projects Secretary)
+- 1st kyu (brown belt) Shorinji Kempo
 
 #### The Skinners' School (September 1992 to July 1999)
 
@@ -51,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   Psychology (C)
 
 - GCSEs:
-  5 B, 2 A, 1 A* 
+  5 B, 2 A, 1 A*
 
 #### Any other qualifications
 
