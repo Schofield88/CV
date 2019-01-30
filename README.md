@@ -4,7 +4,7 @@ Full-stack developer in training, currently studying full-time with Makers Acade
 
 Following university my original sector was UK construction, specifically steel, completely at odds with my degree (BA Geography, University of Southampton). Going in as essentially an apprentice to an engineering discipline meant working daily with real-world technical problems to constant time pressure. In order to save for the Makers course I spent the best part of year working as an MPO in a plaster board factory, doing 12 hour day and night shifts. The nature of working with a continuous line process in a time-pressured environment has left me capable of a high level of graft and robust abilities to cope with high-conflict situations.
 
-I’m constantly making an effort to couple a budding technical ability with a team-spirited alacritous manner, and very much looking forward to a new career as a software professional. 
+I’m constantly making an effort to couple a budding technical ability with a team-spirited alacritous manner, and very much looking forward to a new career as a software professional.
 
 ## Skills
 
@@ -38,11 +38,20 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Southampton (September 1999 to July 2002)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA Hons. Geography
+- Club officer of Southampton University Shorinji Kempo Club (Social Secretary, Special Projects Secretary)
+
+#### The Skinners' School (September 1992 to July 1999)
+
+- A Levels:
+  Geography (A)
+  English (A)
+  Psychology (C)
+
+- GCSEs:
+  5 B, 2 A, 1 A* 
 
 #### Any other qualifications
 
