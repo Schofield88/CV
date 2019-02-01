@@ -62,3 +62,9 @@ Also looking forward to a working environment with a lot less swearing in it.
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Personal Interests
+
+#### Air rifle shooting
+
+- I'm a member of Iden Ferns HFT club in East Sussex, which shoots a discipline called Hunter Field Target. Falling plate targets are set out on a course that one walks round. Points are awarded for knocking a target over by striking a kill zone (anything from 40 to 15mm in diameter, for a score of 2), "plating" a target (striking the faceplate of the target but not the kill, for 1), with a complete miss being scored a 0 ("doughnut", colloquially). A total score for the round is accumulated much like golf. An air rifle not considered a Section 1 firearm (generating less that 12 ft/lb of energy at the muzzle) will only throw a pellet roughly 45 yards reliably, with a 100mm difference in pellet trajectory. The targets on a course are set out at an unknown distance, forcing the marksman to guess the range. Misestimating the range will result in missing the kill zone. 
