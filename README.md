@@ -27,10 +27,11 @@ Also looking forward to a working environment with a lot less swearing in it.
 #### Makers Academy (January 2019 to April 2019)
 
 - [High speed code Warlock](https://medium.com/shoreditch-warlock)
-- Trained in Object Oriented Programming and Test Drive Development
+- Trained in Object Oriented Programming and Test Driven Development
 - Agile/XP
 - Languages: Ruby, Sinatra, JavaScript
 - Testing frameworks: RSpec, Jasmine
+- Additional techs: Postgres, Sqlite3
 
 #### University of Southampton (September 1999 to July 2002)
 
