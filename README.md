@@ -1,8 +1,8 @@
 # Luke Phyall #
 
-Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years in steelwork as a 3D CAD detailer, with additional stints as a personal trainer, an Operational Support Grade contractor escort in HMP Maidstone, and as a Mobile Plant Operative (line takeoff forklift operator) in the Knauf UK Sittingbourne plaster board plant.
+[Personal Blog](https://medium.com/shoreditch-warlock)
 
-Following university my original sector was UK construction, specifically steel, completely at odds with my degree (BA Geography, University of Southampton). Going in as essentially an apprentice to an engineering discipline meant working daily with real-world technical problems to constant time pressure. In order to save for the Makers course I spent the best part of year working as an MPO in a plaster board factory, doing 12 hour day and night shifts. The nature of working with a continuous line process in a time-pressured environment has left me capable of a high level of graft and robust abilities to cope with high-conflict situations.
+Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade contractor escort in HMP Maidstone, and as a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
 
 I’m constantly making an effort to couple a budding technical ability with a team-spirited alacritous manner, and very much looking forward to a new career as a software professional.
 
@@ -12,11 +12,11 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Firm under pressure
 
-- As a steelwork detailer, every project was against an immediate deadline. It was never a case of "Here's what we need, just get it back to us when it's finished". Deadlines were constant and persistent. On top of that, due to the litigious nature of the construction industry clients would regularly be on the phone asking for progress updates. If you had 4 weeks to complete a project, you'd start getting "Is it finished yet?" phone calls after 2. Penalty clauses are a common feature of contracts in construction, so missing deadlines almost always meant some sort of financial penalty.
+- As a steelwork detailer, every project was against an immediate deadline. It was never a case of "Here's what we need, just get it back to us when it's finished". Deadlines were constant and persistent. On top of that, due to the litigious nature of the construction industry clients would regularly be on the phone asking for progress updates.
 
-- As a line takeoff driver in the Knauf UK Sittingbourne plaster board plant, I was driving against a continuous process line. Pallets of plaster board weighing up to two tonnes would need to be lifted from the line takeoff point, stacked with the pallet behind it, then taken into the warehouse for storage. On top of that, the machinery of the line used a number of consumables such as the plastic film used to wrap the pallets, and the wooden bearers that functioned as feet. When these ran out, the line would have to be temporarily paused, the consumable replaced, and the machinery restarted. Failure to stay on top of the consumables could result in the line backing up to the point of forcing a shut, which cost the company an estimated £12,000 per event. In addition, pallets damaged during their transit through the line had to be manually reopened, the broken boards extracted and replaced by hand, and the pallet rewrapped. One's approach to the work had to be robust and determined. The pressure stay ahead of the line was constant and unending for the entirety of the 12-hour shift, and would frequently result in extreme friction between members of the shift.
+- As a line takeoff driver in the Knauf UK Sittingbourne plaster board plant, I was driving against a continuous process line. Failure to stay on top of the consumables the line used could result in the product backing up to the point of forcing a shut. In addition, damaged pallets had to be manually reopened, resorted by hand and the rewrapped. One's approach to the work had to be robust and determined, and the time pressure would frequently result in friction between members of the shift.
 
-- As a result of these experiences (and while I do not like them) I am no stranger to pressurized, high-stress working conditions. I understand that people up against strict deadlines under a work load that does not seem manageable are not themselves, that cracks can develop in any team no matter how good-natured and personable they usually are, and that a mature and calm approach is really the only way to ensure that a charged situation doesn't start spiralling. I'm also not inclined to panic, because the only thing panic does reliably is cloud judgement.
+- As a result of these experiences (and while I do not like them) I am no stranger to high-stress working conditions. I understand that people up against strict deadlines under a work load that does not seem manageable are not themselves, that cracks can develop in any team no matter how good-natured and personable they usually are, and that a mature and calm approach is really the only way to ensure that a charged situation doesn't start spiralling.
 
 #### Attention to detail
 
@@ -29,13 +29,12 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Makers Academy (January 2019 to April 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- High speed code Warlock [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Sinatra, JavaScript
 - RSpec, Jasmine
 
 #### University of Southampton (September 1999 to July 2002)
@@ -67,4 +66,4 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Air rifle shooting
 
-- I'm a member of Iden Ferns HFT club in East Sussex, which shoots a discipline called Hunter Field Target. Falling plate targets are set out on a course that one walks round. Points are awarded for knocking a target over by striking a kill zone (anything from 40 to 15mm in diameter, for a score of 2), "plating" a target (striking the faceplate of the target but not the kill, for 1), with a complete miss being scored a 0 ("doughnut", colloquially). A total score for the round is accumulated much like golf. An air rifle not considered a Section 1 firearm (generating less that 12 ft/lb of energy at the muzzle) will only throw a pellet roughly 45 yards reliably, with a 100mm difference in pellet trajectory. The targets on a course are set out at an unknown distance, forcing the marksman to guess the range. Misestimating the range will result in missing the kill zone. 
+- I'm a member of Iden Ferns HFT club in East Sussex, which shoots a discipline called Hunter Field Target. Falling plate targets are set out on a course that one walks round. Points are awarded for knocking a target over by striking a kill zone (anything from 40 to 15mm in diameter, for a score of 2), "plating" a target (striking the faceplate of the target but not the kill, for 1), with a complete miss being scored a 0 ("doughnut", colloquially). A total score for the round is accumulated much like golf. An air rifle not considered a Section 1 firearm (generating less that 12 ft/lb of energy at the muzzle) will only throw a pellet roughly 45 yards reliably, with a 100mm difference in pellet trajectory. The targets on a course are set out at an unknown distance, forcing the marksman to guess the range. Misestimating the range will result in missing the kill zone.
