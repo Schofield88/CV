@@ -1,6 +1,6 @@
 # Luke Phyall #
 
-[Personal Blog](https://medium.com/shoreditch-warlock)
+[Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
 
 Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade contractor escort in HMP Maidstone, and as a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
 
