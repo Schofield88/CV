@@ -2,22 +2,18 @@
 <p align="center">
   <a href="https://medium.com/shoreditch-warlock">
     <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"   alt="medium" hspace="50" height="42" width="42""></a>
-  <span style="font-size:300%;">Luke Phyall</span>
+  <em>Luke Phyall</em>
   <a href="https://www.linkedin.com/in/luke-phyall-93a473183/">
    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   </p>
 
-  <h1 align="center">Christopher Ly</h1>
-  <p align="center">
-  <a href="https://twitter.com/fake_roogle">
-  <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
-  <a href="https://medium.com/@defc0nONE">
-  <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+  [Background ](#background) |
+  [Projects ](#projects) |
+  [Skills ](#skills) |
+  [Experience ](#experience) |
+  [Education ](#education) |
+  [Interests ](#interests)
 
-  <a href="https://www.linkedin.com/in/christopher-ly-83121619/">
-  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-
-# Luke Phyall #
 
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
 
