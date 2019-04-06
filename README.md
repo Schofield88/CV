@@ -1,3 +1,40 @@
+style>
+  body {
+    font-
+  }
+
+  .wrap {
+    text-align: center
+  }
+
+  .left {
+    float: left;
+  }
+
+  .right {
+    float: right;
+  }
+</style>
+
+<body>
+
+  <div class="wrap">
+    <div class="left">
+      <a href="https://medium.com/shoreditch-warlock">
+        <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"   alt="medium" hspace="50" height="42" width="42""></a>
+     </div>
+     <div align="center">
+       Luke Phyall
+     </div>
+     <div class="right">
+      <a href="https://www.linkedin.com/in/luke-phyall-93a473183/">
+        <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/  linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+      </div>
+  </div>
+
+</body>
+
+
 # Luke Phyall #
 
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
