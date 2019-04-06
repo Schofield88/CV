@@ -2,7 +2,7 @@
 
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
 
-Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade contractor escort in HMP Maidstone, and as a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
+Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade in HMP Maidstone, and a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
 
 I’m constantly making an effort to couple a budding technical ability with a [team-spirited, alacritous manner](https://medium.com/shoreditch-warlock/how-to-be-a-steely-eyed-code-jack-with-steely-eyes-of-steel-dd369e3f6299), and very much looking forward to a new career as a software professional.
 
@@ -12,26 +12,26 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Firm under pressure
 
-- As a steelwork detailer, every project was against an immediate deadline. It was never a case of "Here's what we need, just get it back to us when it's finished". Deadlines were constant and persistent. On top of that, due to the litigious nature of the construction industry clients would regularly be on the phone asking for progress updates.
-
-- As a line takeoff driver with Knauf UK, I was driving against a continuous process line. Failure to stay on top of the consumables the line used could result in the product backing up to the point of forcing a shut. In addition, damaged pallets had to be manually reopened, resorted by hand and rewrapped. One's approach to the work had to be robust and determined, and the time pressure would frequently result in friction between members of the shift.
-
-- As a result of these experiences I am no stranger to high-stress working conditions. I understand that people up against strict deadlines under a work load that does not seem manageable are not themselves, and that a mature and calm approach is really the only way to ensure that a charged situation doesn't start spiralling.
+- Following stints in the construction industry as a steework detailer and as a line take-off driver in a continuous process plasterboard plant, I am no stranger to high-stress working conditions. I understand that people up against time-sensitive deadlines are not themselves, and that a mature and calm approach is the only way to ensure that a charged situation doesn't start spiralling.
 
 #### Attention to detail
 
-- Engineering drawings are not normally drawn specifically for steel. They will show a level on a building or frame, together with any concrete, blockwork, foundations, services, heights above ground, cladding and roofing systems, existing structures, plus anything else that might need to be included for reference. As such, complex and densely-drawn GAs have to be scrutinised for whatever information you needed. In code, things that might seem trivial to a human observer (like an additional space) are very often the difference between code running and raising an expection.
+- When I worked in construction, our work flow involved scrutinizing engineering drawings for the information necessary to detail the steel. These drawings were complex, often showing several layers on one sheet. An error at this stage would translate to financial penalties if the faulty work made it on to site. This skill has translated well to software, where seemingly minor syntactical mistakes can break an entire code base.
+
+#### Strong Team Focus
+
+- Whilst I have worked individually for most of my career, my preference has always been for work in small, highly-motivated teams. I thoroughly enjoy Agile and am a very strong advocate for pair programming.
 
 ## Education
 
 #### Makers Academy (January 2019 to April 2019)
 
-- [High speed code Warlock](https://medium.com/shoreditch-warlock)
+- [High-speed code Warlock](https://medium.com/shoreditch-warlock)
 - Trained in Object Oriented Programming and Test Driven Development
 - Agile/XP
-- Languages: Ruby, Sinatra, JavaScript
+- Languages: Ruby/Rails, Sinatra, JavaScript
 - Testing frameworks: RSpec, Jasmine
-- Additional techs: Postgres, Sqlite3
+- Additional techs: Postgres, Sqlite3, Git, Heroku
 
 #### University of Southampton (September 1999 to July 2002)
 
