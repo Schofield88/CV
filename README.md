@@ -1,4 +1,4 @@
-<h1>Luke Phyall</h1>
+<h1 align="center">Luke Phyall</h1>
 <p align="center">
   <a href="https://medium.com/shoreditch-warlock">
     <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png"   alt="medium" hspace="50" height="42" width="42""></a>
@@ -14,9 +14,9 @@
   [Interests ](#interests)
 </div>
 
-<div align="center">
+
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
-</div>
+
 
 ##Background
 
@@ -88,7 +88,6 @@ Also looking forward to a working environment with a lot less swearing in it.
 <a href="https://www.linkedin.com/in/christopher-ly-83121619/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-<div align="center">
 
 [Background ](#background) |
 [Projects ](#projects) |
@@ -97,7 +96,7 @@ Also looking forward to a working environment with a lot less swearing in it.
 [Education ](#education) |
 [Interests ](#interests)
 
-</div>
+
 
 An alumnus of [Makers](https://makers.tech/), I'm a **full-stack Software Engineer** currently honing my craft at [Spektrix](https://www.spektrix.com/). With a technical academic background and an unconventional job history, it's led me to the world of coding — a craft which I find myself more excited with as time elapses.
 
