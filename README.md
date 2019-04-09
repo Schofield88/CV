@@ -6,13 +6,12 @@
    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   </p>
 
-<div align="center">
+
   [Background ](#background) |
   [Projects ](#projects) |
   [Skills ](#skills) |
   [Education ](#education) |
   [Interests ](#interests)
-</div>
 
 
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
@@ -22,7 +21,7 @@
 
 Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade in HMP Maidstone, and a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
 
-I’m constantly making an effort to couple a budding technical ability with a [team-spirited, alacritous manner](https://medium.com/shoreditch-warlock/how-to-be-a-steely-eyed-code-jack-with-steely-eyes-of-steel-dd369e3f6299), and very much looking forward to a new career as a software professional.
+Doing my very best to couple a budding technical ability with a team-spirited [alacritous manner](https://medium.com/shoreditch-warlock/how-to-be-a-steely-eyed-code-jack-with-steely-eyes-of-steel-dd369e3f6299), and very much looking forward to a new career as a software professional.
 
 Also looking forward to a working environment with a lot less swearing in it.
 
@@ -30,7 +29,7 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Firm under pressure
 
-- Following stints in the construction industry as a steework detailer and as a line take-off driver in a continuous process plasterboard plant, I am no stranger to high-stress working conditions. I understand that people up against time-sensitive deadlines are not themselves, and that a mature and calm approach is the only way to ensure that a charged situation doesn't start spiralling.
+- Following stints in the construction industry as a steelwork detailer and as a line take-off driver in a continuous process plasterboard plant, I am no stranger to high-stress working conditions. I understand that people up against time-sensitive deadlines are not themselves, and that a mature and calm approach is the only way to ensure that a charged situation doesn't start spiralling.
 
 #### Attention to detail
 
@@ -44,7 +43,7 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Makers Academy (January 2019 to April 2019)
 
-16 weeks training course, based in London, teaching the principles of software engineering, Object-Oriented Programming,  Test-Driven/Behaviour-Driven Development, Agile team dynamics, with a crash course in Ruby, Sinatra, Rails, JavaScript, HTML/CSS, best-practice use of version control systems (specifically Git), use of CI/CD, plus testing frameworks (Rspec and Jasmine)
+16 weeks training course, based in London, teaching the principles of software engineering, Object-Oriented Programming,  Test-Driven/Behaviour-Driven Development, Agile team dynamics, with a crash course in Ruby, Sinatra, Rails, JavaScript, HTML/CSS, best-practice use of version control systems (specifically Git), use of CI/CD, plus testing frameworks (Rspec and Jasmine).
 
 #### University of Southampton (September 1999 to July 2002)
 
@@ -64,12 +63,31 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Any other qualifications
 
+- Counter-balance forklift licence (rated to 5000kg)
+- Level 2 Gym Instructor
+- Level 3 Personal Trainer
+
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Knauf UK, Sittingbourne**
+
+*Mobile Plant Operative - Line-takeoff operative*
+
+**HMP Maidstone**
+
+*Operational Support Grade - Contractor Escort*
+
+**Various Firms** (January 2016 to January 2018)
+
+*Counter Balance Forklift Driver*
+
+**3 Delta Design** (August 2002 to December 2008, July 2010 to November 2015)
+
+*Steelwork Detailer*  
+
+**Hilden Health Club** (January 2009 to July 2010)   
+
+*Personal Trainer and Gym Instructor*  
 
 ## Personal Interests
 
