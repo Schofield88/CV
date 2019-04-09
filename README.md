@@ -10,7 +10,6 @@
   [Background ](#background) |
   [Projects ](#projects) |
   [Skills ](#skills) |
-  [Experience ](#experience) |
   [Education ](#education) |
   [Interests ](#interests)
 </div>
@@ -18,6 +17,8 @@
 <div align="center">
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
 </div>
+
+##Background
 
 Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade in HMP Maidstone, and a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
 
@@ -43,12 +44,7 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Makers Academy (January 2019 to April 2019)
 
-- [High-speed code Warlock](https://medium.com/shoreditch-warlock)
-- Trained in Object Oriented Programming and Test Driven Development
-- Agile/XP
-- Languages: Ruby/Rails, Sinatra, JavaScript
-- Testing frameworks: RSpec, Jasmine
-- Additional techs: Postgres, Sqlite3, Git, Heroku
+16 weeks training course, based in London, teaching the principles of software engineering, Object-Oriented Programming,  Test-Driven/Behaviour-Driven Development, Agile team dynamics, with a crash course in Ruby, Sinatra, Rails, JavaScript, HTML/CSS, best-practice use of version control systems (specifically Git), use of CI/CD, plus testing frameworks (Rspec and Jasmine)
 
 #### University of Southampton (September 1999 to July 2002)
 
