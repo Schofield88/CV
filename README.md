@@ -5,19 +5,16 @@
     <a href="https://www.linkedin.com/in/luke-phyall-93a473183/">
    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-
-
   [Background ](#background) |
   [Projects ](#projects) |
   [Skills ](#skills) |
   [Education ](#education) |
   [Interests ](#interests)
 
-
 [Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
 </p>
 
-##Background
+## Background
 
 Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade in HMP Maidstone, and a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
 
