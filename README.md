@@ -9,18 +9,25 @@
   [Projects ](#projects) |
   [Skills ](#skills) |
   [Education ](#education) |
-  [Interests ](#interests)
-
-[Personal Blog](https://medium.com/shoreditch-warlock) | [Github](https://github.com/Schofield88)
+  [Interests ](#interests) |
+  [Personal Blog](https://medium.com/shoreditch-warlock) |
+  [Github](https://github.com/Schofield88)
 </p>
 
 ## Background
 
-Full-stack developer in training, currently studying full-time with Makers Academy in London. From a construction background following 12 years as a steelwork detailer, with additional stints as a personal trainer, an Operational Support Grade in HMP Maidstone, and a Mobile Plant Operative (line takeoff forklift operator) in a plaster board plant.
+Full-stack developer, trained Makers Academy in London, with a particular interest in front end and (very recently) iOS development in Swift. In previous incarnations I was a steelwork detailer, a personal trainer, an Operational Support Grade in HMP Maidstone, and a line-takeoff forklift driver in a plaster board plant.
 
 Doing my very best to couple a budding technical ability with a team-spirited [alacritous manner](https://medium.com/shoreditch-warlock/how-to-be-a-steely-eyed-code-jack-with-steely-eyes-of-steel-dd369e3f6299), and very much looking forward to a new career as a software professional.
 
 Also looking forward to a working environment with a lot less swearing in it.
+
+## Projects
+| Title | Description | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|
+| [CodeCraft](https://github.com/KTSE-2018/KTSE) | Completely indoctrinated by the course, my final project group created a bootcamp survival simulation game. Wanting to learn how to build it from the ground up, we didn't use any game frameworks and used TDD to build our own game logic. | JavaScript, JQuery, HTML/CSS, Heroku | Mocha, Chai, Sinon |
+| [PinkFish (Facebook)](https://github.com/Hemesh-Unka/acebook-pinkFish) | Five rag tag individuals band together and set off to create our interpretation of Facebook with an emphasis on focusing on learning as a group. The site's design was driven by a plush toy of a pink fish found close to our desk. | Ruby on Rails, HTML/CSS (Bootstrap), JavaScript, JQuery, PostgreSQL,  Heroku, AWS S3 Bucket | RSpec, Capybara, Travis, CodeClimate, Selenium-Webdriver (using headless Chrome) |
+| [Tasteless Notes](https://github.com/vivianallen/tastelessnotes) | A group of four christened 'The Tasteless Sheep' create a notes SPA - the caveat being we weren't allowed to use any frameworks. If we wanted to employ TDD, we had to build the test framework ourselves.  | HTML/CSS, JavaScript | Tasteless Testing Suite  |
 
 ## Skills
 
@@ -35,6 +42,14 @@ Also looking forward to a working environment with a lot less swearing in it.
 #### Strong Team Focus
 
 - Whilst I have worked individually for most of my career, my preference has always been for work in small, highly-motivated teams. I thoroughly enjoy Agile and am a very strong advocate for pair programming.
+
+#### Zero Fear of Public Speaking
+
+- Although I haven't done it in years, dancing was a major pastime back in my mid twenties. I was an assistant instructor of sorts for one of the styles I did (Ceroc), and would have to lead revision classes for beginners on a three-week rotation. Because of that, I know how to hold a room and can deliver presentations and addresses in an articulate fashion.
+
+#### Modest
+
+- I almost hardly ever go on about how fantastic I am, and wouldn't dream of mentioning it in a CV.
 
 ## Education
 
@@ -90,7 +105,16 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 #### Air rifle shooting
 
-- I'm a member of Iden Ferns HFT club in East Sussex, which shoots a discipline called Hunter Field Target. Falling plate targets are set out on a course that one walks round. Points are awarded for knocking a target over by striking a kill zone (anything from 40 to 15mm in diameter, for a score of 2), "plating" a target (striking the faceplate of the target but not the kill, for 1), with a complete miss being scored a 0 ("doughnut", colloquially). A total score for the round is accumulated much like golf. An air rifle not considered a Section 1 firearm (generating less that 12 ft/lb of energy at the muzzle) will only throw a pellet roughly 45 yards reliably, with a 100mm difference in pellet trajectory. The targets on a course are set out at an unknown distance, forcing the marksman to guess the range. Misestimating the range will result in missing the kill zone.
+- I'm a member of Iden Ferns HFT club in East Sussex. If you're rat-shaped, made of metal, sprayed yellow and standing up within 45 yards, you're for it.
+
+#### Dancing
+
+- It's been a while, but it's still in there. Ceroc, and Ballroom and Latin. Cannot stand Latin though; Ballroom is where my heart is, specifically the Waltz and the Quickstep. Did you know that, when the Waltz first entered the public scene, it was considered utter filth? A man and a woman, dancing, in contact, where people can see? The very idea.
+
+#### Motorcycles
+
+- Not got one at the moment because they really need to be kept in garage, but they're fantastic. It's as close to riding a broomstick as any of us is ever going to get.
+
 
 
 <h1 align="center">Christopher Ly</h1>
