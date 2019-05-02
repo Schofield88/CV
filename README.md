@@ -16,7 +16,9 @@
 
 ## Background
 
-Full-stack developer, trained Makers Academy in London, with a particular interest in front end and (very recently) iOS development in Swift. In previous incarnations I was a steelwork detailer, a personal trainer, an Operational Support Grade in HMP Maidstone, and a line-takeoff forklift driver in a plaster board plant.
+Full-stack developer, trained at Makers Academy in London, with a particular interest in front end and (very recently) iOS development in Swift. Despite thinking at the start of my training I was going to gravitate to back-end, my views completely changed with exposure to React. I'm currently concentrating my efforts on bringing this up to speed as fast as I can.
+
+I came to software accidentally after being tasked with macro development in my previous incarnation as a steelwork detailer, even though I had no clue at the time that that's what I was doing. That was made additionally more fun because the in-house interface was partially in German. I've also been a personal trainer, an Operational Support Grade in HMP Maidstone, and a line-takeoff forklift driver in a plaster board plant.
 
 Doing my very best to couple a budding technical ability with a team-spirited [alacritous manner](https://medium.com/shoreditch-warlock/how-to-be-a-steely-eyed-code-jack-with-steely-eyes-of-steel-dd369e3f6299), and very much looking forward to a new career as a software professional.
 
