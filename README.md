@@ -31,7 +31,7 @@ Also looking forward to a working environment with a lot less swearing in it.
 | [Acebook](https://github.com/Schofield88/acebook-Team_404) | A Facebook clone (of sorts) that served as an introduction to software engineering in an Agile team. This was the first time anyone on the team had dealt with Rails, having only previously worked in Sinatra | Ruby on Rails, HTML/CSS, PostgreSQL, Travis CI, Heroku, Devise | RSpec, Capybara |
 
 
-## Skills
+## Personal Qualities
 
 #### Firm under pressure
 
