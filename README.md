@@ -49,9 +49,6 @@ Also looking forward to a working environment with a lot less swearing in it.
 
 - Although I haven't done it in years, dancing was a major pastime back in my mid twenties. I was an assistant instructor of sorts for one of the styles I did (Ceroc), and would have to lead revision classes for beginners on a three-week rotation. Because of that, I know how to hold a room and can deliver presentations and addresses in an articulate fashion.
 
-#### Modest
-
-- I almost hardly ever go on about how fantastic I am, and wouldn't dream of mentioning it in a CV.
 
 ## Education
 
