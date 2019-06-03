@@ -16,13 +16,16 @@
 
 ## Background
 
-Full-stack developer, trained at Makers Academy in London, with a particular interest in front end and (very recently) iOS development in Swift. Despite thinking at the start of my training I was going to gravitate to back-end, my views completely changed with exposure to React. I'm currently concentrating my efforts on bringing this up to speed as fast as I can.
+I'm a recent grad of Makers Academy in London following a career in (mainly) construction (as a steelwork detailer). I made the inevitable decision to retrain following some development work I was tasked to do when the drawing office switched detailing packages, and discovered that I preferred that type of role to my actual job.
 
-I came to software accidentally after being tasked with macro development in my previous incarnation as a steelwork detailer, even though I had no clue at the time that that's what I was doing. That was made additionally more fun because the in-house interface was partially in German. I've also been a personal trainer, an Operational Support Grade in HMP Maidstone, and a line-takeoff forklift driver in a plaster board plant.
+At Makers I was trained in OO principles, programming and design, with more of a slant on becoming a software engineer than simply a coder. Languages covered on the course were Ruby (and into Rails later), JavaScript for front end, before doing a final engineering project in which my team chose to make a simple iOS app in Swift.
 
-Doing my very best to couple a budding technical ability with a team-spirited [alacritous manner](https://medium.com/shoreditch-warlock/how-to-be-a-steely-eyed-code-jack-with-steely-eyes-of-steel-dd369e3f6299), and very much looking forward to a new career as a software professional.
+As a result of my training, I'm extremely confident in my ability to pick up new languages and technologies quickly and thoroughly; my post-course self-directed training is focusing on React as an introduction to contemporary JS libraries, but the skills I've developed regarding learning how to learn mean that I'm quietly confident in tackling any programming language.
 
-Also looking forward to a working environment with a lot less swearing in it.
+A heavy component of the course was TDD, a thread that ran through everything we did. Initially using Rspec for Ruby, Jasmine was introduced for JavaScript, before using Xcode's XCTest to develop the Swift app. Exploring React for myself has lead me to use Cypress and Jest.
+
+My background in an engineering discipline mean I've considerable experience working in team dynamics to tight deadlines with a strong element of problem solving. The Makers curriculum also teaches Agile/XP principles and I found that this was one of the elements of the course/software that I enjoyed most. Contrasted with traditional engineering, the fluid and dynamic nature of Agile teams working towards immediate goals is a joy.
+
 
 ## Projects
 | Title | Description | Technologies Used | Test Suites/Frameworks |
