@@ -14,6 +14,10 @@
   [Github](https://github.com/Schofield88)
 </p>
 
+## Paper CV
+
+[Click me](https://drive.google.com/open?id=14LLPZwsYSiRlDSsB3-GGzcDPS2S0auLL)
+
 ## Background
 
 I'm a recent grad of Makers Academy in London following a career in (mainly) construction (as a steelwork detailer). I made the inevitable decision to retrain following some development work I was tasked to do when the drawing office switched detailing packages, and discovered that I preferred that type of role to my actual job.
