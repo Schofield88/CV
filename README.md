@@ -17,7 +17,7 @@
 
 ## Paper CV
 
-[Click here for the paper version of this CV](https://drive.google.com/open?id=14LLPZwsYSiRlDSsB3-GGzcDPS2S0auLL)
+[Click here for the paper version of this CV](https://drive.google.com/open?id=19nlSyGyLx0Mz8ozxeLdtjpwVwmDpB9vQ)
 
 ## Background
 
