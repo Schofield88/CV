@@ -6,11 +6,10 @@
    <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
   [Background ](#background) |
-    [Nutshell ](#nutshell) |
+  [Nutshell ](#nutshell) |
   [Projects ](#projects) |
-  [Skills ](#skills) |
   [Education ](#education) |
-  [Interests ](#interests) |
+  [Experience ](#experience) |
   [Personal Blog](https://medium.com/shoreditch-warlock) |
   [Github](https://github.com/Schofield88)
 </p>
