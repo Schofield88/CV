@@ -20,7 +20,7 @@
 
 ## Background
 
-Full-stack developer, trained at Makers Academy in London, currently leaning in a rather lopsided way towards front-end. This doesn't mean it's my only focus, however; more than anything, I just want to work in software, and in the end whatever role I move into will get the very best of me.
+Full-stack junior developer, trained at Makers Academy in London, currently leaning in a rather lopsided way towards front-end. This doesn't mean it's my only focus, however; more than anything, I just want to work in software, and in the end whatever role I move into will get the very best of me.
 
 
 
@@ -32,7 +32,7 @@ I came to software accidentally after being tasked with macro development in my 
 
 ## Nutshell
 
-**Back-end:** _Ruby_ is my back-end language, as well as being the primary language I trained in. It was through Ruby that I was taught object-oriented programming and design principles. As my time at Makers Academy progressed, I used _Sinatra_, then _Rails_ as frameworks for web development. Following the conclusion of the course, I moved into _Node_ and _Express.js_ as I pursued a dive into the JavaScript Everywhere paradigm.
+**Back-end:** _Ruby_ is my back-end language, as well as being the primary language I trained in. It was through Ruby that I was taught object-oriented programming and design principles. As my time at Makers Academy <span font-family="AmericanTypewriter-Bold">progressed</span>, I used _Sinatra_, then _Rails_ as frameworks for web development. Following the conclusion of the course, I moved into _Node_ and _Express.js_ as I pursued a dive into the JavaScript Everywhere paradigm.
 
 **Front-end:** _HTML/CSS_ and _JavaScript (ES5)_ were covered at Makers  on the front-end, and I have to admit that I absolutely despised JS after coming to it from Ruby. However, at the end of the course it occurred to me that I did not, in fact, hate it; just that it wasn't as syntactically-undemanding as something like Ruby or Python. With that particular block out of the way, I decided that my JavaScript simply wasn't good enough and made it a priority to revise and explore the language. I began by teaching myself _ES6+_, with a view to moving rapidly into _React_. React had been used by a number of other project teams on the course, but I had no clue what it was.
 
@@ -44,7 +44,7 @@ I came to software accidentally after being tasked with macro development in my 
 
 
 ## Projects
-| Title | Description | Technologies Used | Test Suites/Frameworks |
+| Title | Description | Technologies Used | Testing Frameworks |
 |--|--|--|--|
 |[The News](https://github.com/Schofield88/News_Challenge)| Stuuuuuuuuf | JavaScript, Express.js, HTML/CSS, Handlebars | Jest |
 | [LAMABaby](https://github.com/Schofield88/LAMAbaby) | Our final team project at Makers Academy. This is an assistant app for carers or baby-sitters that provides scheduling information for the child, plus an AR component that helps you when you're trying to find something round the house. As an iOS app this was written in Swift, a language not covered on the course | Swift, ARKit 2 | XCTest |
