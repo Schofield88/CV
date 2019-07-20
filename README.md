@@ -46,6 +46,7 @@ I came to software accidentally after being tasked with macro development in my 
 ## Projects
 | Title | Description | Technologies Used | Test Suites/Frameworks |
 |--|--|--|--|
+|[The News](https://github.com/Schofield88/News_Challenge)| Stuuuuuuuuf | JavaScript, Express.js, HTML/CSS, Handlebars | Jest |
 | [LAMABaby](https://github.com/Schofield88/LAMAbaby) | Our final team project at Makers Academy. This is an assistant app for carers or baby-sitters that provides scheduling information for the child, plus an AR component that helps you when you're trying to find something round the house. As an iOS app this was written in Swift, a language not covered on the course | Swift, ARKit 2 | XCTest |
 | [Acebook](https://github.com/Schofield88/acebook-Team_404) | A Facebook clone (of sorts) that served as an introduction to software engineering in an Agile team. This was the first time anyone on the team had dealt with Rails, having only previously worked in Sinatra | Ruby on Rails, HTML/CSS, PostgreSQL, Travis CI, Heroku, Devise | RSpec, Capybara |
 
